@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.DS_Store
+
+# FastF1/cache files
+.fastf1/
+cache/
+f1_cache/
+
+# Logs
+*.log
