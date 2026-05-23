@@ -48,17 +48,3 @@ The project is built to demonstrate applied machine learning, feature engineerin
 - Scikit-learn
 - Plotly
 
-## Project Structure
-
-```text
-ApexAI/
-├── app.py
-├── data_loader.py
-├── telemetry_engine.py
-├── delta_engine.py
-├── fingerprint_engine.py
-├── pace_model_engine.py
-├── requirements.txt
-├── README.md
-├── screenshots/
-└── .gitignore
