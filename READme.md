@@ -1,6 +1,6 @@
 # ApexAI
 
-ApexAI is a motorsports telemetry analytics and ML pace forecasting platform built using Formula 1 telemetry data.  
+ApexAI is a motorsports telemetry analytics, ML pace forecasting and driver clustering platform built using Formula 1 telemetry data.  
 It combines driver telemetry comparison, lap delta analysis, machine learning based pace prediction, and unsupervised driver fingerprinting in an interactive Streamlit dashboard.
 
 ## Overview
