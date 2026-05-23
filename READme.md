@@ -48,3 +48,17 @@ The project is built to demonstrate applied machine learning, feature engineerin
 - Scikit-learn
 - Plotly
 
+## Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Telemetry Comparison
+![Telemetry Comparison](screenshots/telemetry_comparison.png)
+
+### ML Pace Forecasting
+![Pace Forecasting](screenshots/pace_forecasting.png)
+
+### Driver Fingerprinting
+![Driver Fingerprinting](screenshots/driver_fingerprinting.png)
+
