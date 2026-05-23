@@ -51,14 +51,16 @@ The project is built to demonstrate applied machine learning, feature engineerin
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots/Dashboard.png)
 
 ### Telemetry Comparison
-![Telemetry Comparison](screenshots/telemetry_comparison.png)
+![Telemetry Comparison](screenshots/Telemetry_comparison.png)
 
 ### ML Pace Forecasting
-![Pace Forecasting](screenshots/pace_forecasting.png)
+![Pace Forecasting](screenshots/Pace_Forecasting.png)
 
 ### Driver Fingerprinting
-![Driver Fingerprinting](screenshots/driver_fingerprinting.png)
+![Driver Fingerprinting](screenshots/Driver_fingerprinting_cluster_map.png)
+![Driver Fingerprinting](screenshots/driver_fingerprinting_profiles.png)
+![Driver Fingerprinting](screenshots/driver_fingerprinting_radars.png)
 
